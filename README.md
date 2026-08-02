@@ -59,14 +59,13 @@ Senior Front-End & WordPress Developer with extensive experience building, maint
 
 Throughout my career, I've partnered with agencies and in-house teams to deliver enterprise web solutions for organizations including:
 
-- Remitly
-- Trinity Life Sciences
-- Hartung Glass Industries
-- IGEL
-- Tenable
-- Rapyd
-- BMW / MINI
-- ADP Dealer Services
+- Remitly (Eliassen)
+- Trinity Life Sciences (Atrenet)
+- Hartung Glass Industries (Veloce)
+- IGEL (Atrenet)
+- Tenable (Atrenet)
+- Rapyd (Atrenet)
+- BMW / MINI /GM (Cobalt/ADP Dealer Services)
 
 My work has included custom WordPress development, enterprise front-end engineering, accessibility (WCAG 2.1 AA), Core Web Vitals optimization, multilingual websites, API integrations, and modern development workflows.
 
