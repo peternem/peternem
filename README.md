@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Matt Peternell 👋
 
 Senior Front-End & WordPress Developer with extensive experience building, maintaining, and optimizing enterprise websites. I enjoy creating fast, accessible, and user-focused digital experiences while collaborating with cross-functional teams to deliver scalable, maintainable solutions.
