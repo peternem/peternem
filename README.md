@@ -99,14 +99,6 @@ My work has included custom WordPress development, enterprise front-end engineer
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peternem&show_icons=true&rank_icon=github&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peternem&layout=compact&theme=transparent)
-
----
-
 ## 🏷️ Skills
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
