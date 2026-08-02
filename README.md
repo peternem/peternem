@@ -89,14 +89,13 @@ My work has included custom WordPress development, enterprise front-end engineer
 
 ---
 
-## 🌱 Currently Building
+## 🚀 Current Projects
 
-- 🚀 Personal portfolio website
-- 🔌 Open-source WordPress plugins & developer tools
-- 📊 Garmin Connect analytics and training dashboard
-- 🤖 AI-assisted development workflows
-- ⚛️ Expanding my React, Next.js, and TypeScript skills
-
+- 🌐 Building a custom WordPress portfolio website.
+- 🧱 Developing custom Gutenberg blocks with React, block.json, and the WordPress Block Editor APIs.
+- 🤖 Experimenting with AI-powered analysis of my Garmin Connect fitness data to explore training, recovery, HRV, sleep, and long-term performance trends.
+- ⚛️ Expanding my React, Next.js, and TypeScript skills through hands-on projects. Expanding my React, Next.js, and TypeScript skills through personal projects
+- 
 ---
 
 ## 🏷️ Skills
